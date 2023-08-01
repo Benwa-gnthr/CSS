@@ -1,0 +1,13 @@
+div{
+    width: 100%;
+    height: 120px;
+}
+.lineaire-simple{
+    background: linear-gradient(blue, pink);
+}
+.degrade-horizontale{
+    background: linear-gradient(to right, blue, pink);
+}
+.degrade-espacement-auto{
+    background: linear-gradient(red, yellow, blue);
+}

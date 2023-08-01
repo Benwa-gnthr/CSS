@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #331D2C;
+}
+.maDiv{
+    border: 1px solid #EFE1D1;
+    border-radius: 5%;
+    height: 400px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.men{
+    border: 1px solid #EFE1D1;
+    height: 50px;
+    width: 100%;
+    margin: 0% 0% 0%;
+    border-radius: 20%;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+li{
+    display: inline-block;
+    margin: 0px 60px;
+}
+a{
+       color: #A78295;
+       font-size: large;
+       text-decoration: none;
+}
+a:hover{
+    color: #A78295;
+    border: 1px solid antiquewhite;
+}
